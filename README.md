@@ -9,7 +9,7 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 ### Currently Working on
 
 [Sudoku Solver in Julia](https://github.com/ismahahmed/Julia-Sudoku)
-- Ongoing project for my programming language course! I am building a sudoku solver with julia programming language.
+- Ongoing project for my programming language course! I am building a sudoku solver in Julia programming language.
 
 # 
 
