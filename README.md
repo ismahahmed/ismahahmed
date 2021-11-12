@@ -1,4 +1,5 @@
-### Hi there, Im Ismah!
+### Hi there, I'm Ismah!
+
 
 I am a current undergraduate student studying *Data Science and Analytics!* I love data science, reading and starting new projects!
 
@@ -28,4 +29,8 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 
 ### Most Used Languages (on GitHub)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahahmed&theme=radical)
+
+#
+
+
 
