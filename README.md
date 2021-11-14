@@ -1,4 +1,4 @@
-## Hi there, I'm Ismah!
+### Hi there, I'm Ismah!
 
 I am a current undergraduate student studying *Data Science and Analytics!* I love data science, reading and starting new projects!
 
