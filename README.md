@@ -34,7 +34,9 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 # 
 
 ### Most Used Languages (on GitHub)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahahmed&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahahmed&layout=compact&theme=radical)](https://github.com/ismahahmed/github-readme-stats)
+
 
 #
 
