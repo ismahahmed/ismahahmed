@@ -28,6 +28,9 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 [R Package on Netflix Data](https://github.com/ismahahmed/Netflix-R-Package)
 - Semester long project for my Applied Data Science course. The objective of the project was to build a functional package in R. I found netflix data from kaggle and used it to do a exploratory data analysis on movie/tv show data available on Netflix.
 
+[Python Data Structures](https://github.com/ismahahmed/Python-Data-Structures)
+
+
 # 
 
 ### Most Used Languages (on GitHub)
