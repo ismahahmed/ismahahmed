@@ -12,12 +12,13 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 
 ### Currently Working on
 
-[Sudoku Solver in Julia](https://github.com/ismahahmed/Julia-Sudoku)
-- Ongoing project for my programming language course! I am building a sudoku solver in Julia programming language.
 
 # 
 
 ### Past Projects
+
+[Sudoku Solver in Julia](https://github.com/ismahahmed/Julia-Sudoku)
+- Project for my programming language course. Sudoku solver in Julia programming language.
 
 [Learning How to Program in Julia](https://github.com/ismahahmed/Learning-Julia-Programming)
 - GitHub repository for my semester long project in my CS-330 course: Structure and Organization of Programming Language where I learned how to program in Julia
