@@ -6,7 +6,6 @@ I am a current undergraduate student studying *Data Science and Analytics!* I lo
 
 💻 Skills: Python, R, Java, Julia, Visual Studio Code, SQL, HTML, CSS
 
-🌱 I’m currently learning how to program in Julia!
 
 # 
 
