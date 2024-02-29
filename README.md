@@ -14,7 +14,6 @@
 # 
 
 ### Past Projects
-[Data Ops Challenge](https://github.com/ismahahmed/Data-Ops-Challenge)
 
 [R Package on Netflix Data](https://github.com/ismahahmed/Netflix-R-Package)
 - The objective of the project was to build a functional package in R. I found netflix data from kaggle and used it to do a exploratory data analysis on movie/tv show data available on Netflix.
