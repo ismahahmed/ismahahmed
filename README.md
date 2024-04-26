@@ -15,6 +15,8 @@
 
 ### Past Projects
 
+[Diabetes Predictive Analysis using Machine Learning](https://github.com/ismahahmed/Diabetes-ML-Predictive-Analysis)
+
 [R Package on Netflix Data](https://github.com/ismahahmed/Netflix-R-Package)
 - The objective of the project was to build a functional package in R. I found netflix data from kaggle and used it to do a exploratory data analysis on movie/tv show data available on Netflix.
 
