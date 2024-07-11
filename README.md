@@ -3,7 +3,7 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/julia.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"/> 
 
-💻 Skills: Python, R, SQL, Data Analysis
+💻 Skills: Python, R, SQL, HTML, Data Analysis
 
 
 # 
