@@ -18,6 +18,9 @@
 [Diabetes Predictive Analysis using Machine Learning](https://github.com/ismahahmed/Diabetes-ML-Predictive-Analysis)
 - This repository presents an analysis of diabetes data with the aim of predicting diabetes in individuals using machine learning and data analytics principles. The analysis includes the exploration of various features, correlation analysis, and statistical summaries.
 
+[Analyzing Boston Blue Bike Short Trips](https://github.com/ismahahmed/Analyzing-Blue-Bike-Trips/tree/main)
+- By leveraging a comprehensive data set on Boston BLue Bike 2019 data, I aim to uncover insightful patterns associated with bike rental usage in Boston.
+
 [R Package on Netflix Data](https://github.com/ismahahmed/Netflix-R-Package)
 - The objective of the project was to build a functional package in R. I found netflix data from kaggle and used it to do a exploratory data analysis on movie/tv show data available on Netflix.
 
