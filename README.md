@@ -15,6 +15,9 @@
 
 ### Past Projects
 
+[Exploring the Impact of Advertising on Sales: A Multiple Linear Regression Analysis](https://github.com/ismahahmed/Advertising-Sales-Regression)
+- Calculating a least squares regression equation that predicts Sales (in thousands) based on advertising spending on TV, newspapers, and radio. Formally tests whether the set of these predictors is associated with total sales at the $\alpha$ = 0.05 significance level.
+
 [Diabetes Predictive Analysis using Machine Learning](https://github.com/ismahahmed/Diabetes-ML-Predictive-Analysis)
 - This repository presents an analysis of diabetes data with the aim of predicting diabetes in individuals using machine learning and data analytics principles. The analysis includes the exploration of various features, correlation analysis, and statistical summaries.
 
