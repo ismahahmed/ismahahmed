@@ -6,12 +6,12 @@
 💻 Skills: Python, R, SQL, HTML, Data Analysis
 
 
-# 
-
 ### Currently Working on
 
+[NYC Speed Reducer Insights: A DataWarehouse](https://github.com/ismahahmed/NYC-Traffic-Safety-DataWarehouse)
+- This repository contains a data warehouse project focused on analyzing traffic safety and infrastructure data in New York City. The project integrates datasets on motor vehicle collisions and speed reducer requests (both from [NYC Open Data](https://opendata.cityofnewyork.us/)), cleans and transforms the data, and loads it into a PostgreSQL database for analysis. The repository includes Python scripts for data cleaning, dimensional modeling, and ETL processes, as well as SQL scripts for creating and managing database tables.
 
-# 
+
 
 ### Past Projects
 
