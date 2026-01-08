@@ -8,12 +8,12 @@
 
 ### Currently Working on
 
-[NYC Speed Reducer Insights: A DataWarehouse](https://github.com/ismahahmed/NYC-Traffic-Safety-DataWarehouse)
-- This repository contains a data warehouse project focused on analyzing traffic safety and infrastructure data in New York City. The project integrates datasets on motor vehicle collisions and speed reducer requests (both from [NYC Open Data](https://opendata.cityofnewyork.us/)), cleans and transforms the data, and loads it into a PostgreSQL database for analysis. The repository includes Python scripts for data cleaning, dimensional modeling, and ETL processes, as well as SQL scripts for creating and managing database tables.
-
 
 
 ### Past Projects
+
+[NYC Speed Reducer Insights: A DataWarehouse](https://github.com/ismahahmed/NYC-Traffic-Safety-DataWarehouse)
+- This repository contains a data warehouse project focused on analyzing traffic safety and infrastructure data in New York City. The project integrates datasets on motor vehicle collisions and speed reducer requests (both from [NYC Open Data](https://opendata.cityofnewyork.us/)), cleans and transforms the data, and loads it into a PostgreSQL database for analysis. The repository includes Python scripts for data cleaning, dimensional modeling, and ETL processes, as well as SQL scripts for creating and managing database tables.
 
 [Exploring the Impact of Advertising on Sales: A Multiple Linear Regression Analysis](https://github.com/ismahahmed/Advertising-Sales-Regression)
 - Calculating a least squares regression equation that predicts Sales (in thousands) based on advertising spending on TV, newspapers, and radio. Formally tests whether the set of these predictors is associated with total sales at the $\alpha$ = 0.05 significance level.
