@@ -7,7 +7,7 @@
 
 
 ### Currently Working on
-[From Relational Design to Data Warehouse: Books, Authors, and NYT Best Sellers](https://github.com/ismahahmed/books-authors-nyt-database-design)
+[From Relational Design to Data Warehouse: Books, Authors, and Synthetic Sales](https://github.com/ismahahmed/books-authors-nyt-database-design)
 
 
 ### Past Projects
