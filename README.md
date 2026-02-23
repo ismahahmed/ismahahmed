@@ -8,7 +8,7 @@
 
 ### Currently Working on
 [From Relational Design to Data Warehouse: Books, Authors, and Synthetic Sales](https://github.com/ismahahmed/books-authors-nyt-database-design)
-
+- PostgreSQL data warehouse for book sales, featuring normalized OLTP design, ETL automation, comprehensive logging, and Slowly Changing Dimensions (SCD Type 2)
 
 ### Past Projects
 [NYC Speed Reducer Insights: A DataWarehouse](https://github.com/ismahahmed/NYC-Traffic-Safety-DataWarehouse)
@@ -37,14 +37,6 @@
 
 [Python Data Structures](https://github.com/ismahahmed/Python-Data-Structures)
 
-
-# 
-
-### Most Used Languages (on GitHub)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahahmed&layout=compact&theme=radical)](https://github.com/ismahahmed/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismahahmed&layout=compact&theme=dark)](https://github.com/ismahahmed)
 
 
 
